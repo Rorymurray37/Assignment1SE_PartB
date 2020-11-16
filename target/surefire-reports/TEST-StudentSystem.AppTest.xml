@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="StudentSystem.AppTest" time="0.186" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="StudentSystem.AppTest" time="0.162" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/test-classes:/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/classes:/Users/rorymurray/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/rorymurray/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/rorymurray/.m2/repository/com/github/Rorymurray37/SoftEng/8f0f5c2487/SoftEng-8f0f5c2487.jar:/Users/rorymurray/.m2/repository/joda-time/joda-time/2.10.8/joda-time-2.10.8.jar:"/>
+    <property name="java.class.path" value="/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/test-classes:/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/classes:/Users/rorymurray/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/rorymurray/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/rorymurray/.m2/repository/com/github/Rorymurray37/Assignment1_SE/dc53c571be/Assignment1_SE-dc53c571be.jar:/Users/rorymurray/.m2/repository/joda-time/joda-time/2.10.8/joda-time-2.10.8.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
@@ -16,10 +16,10 @@
     <property name="user.country" value="AT"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/surefire/surefirebooter8450744910943567410.jar /Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/surefire 2020-11-16T19-35-37_530-jvmRun1 surefire12459203297938566216tmp surefire_07101113021080064721tmp"/>
+    <property name="sun.java.command" value="/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/surefire/surefirebooter13719769500184106200.jar /Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/surefire 2020-11-16T23-14-47_580-jvmRun1 surefire9319805891761544010tmp surefire_03704578579355686522tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/test-classes:/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/classes:/Users/rorymurray/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/rorymurray/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/rorymurray/.m2/repository/com/github/Rorymurray37/SoftEng/8f0f5c2487/SoftEng-8f0f5c2487.jar:/Users/rorymurray/.m2/repository/joda-time/joda-time/2.10.8/joda-time-2.10.8.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/test-classes:/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/classes:/Users/rorymurray/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/rorymurray/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/rorymurray/.m2/repository/com/github/Rorymurray37/Assignment1_SE/dc53c571be/Assignment1_SE-dc53c571be.jar:/Users/rorymurray/.m2/repository/joda-time/joda-time/2.10.8/joda-time-2.10.8.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/rorymurray"/>
     <property name="user.language" value="en"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/surefire/surefirebooter8450744910943567410.jar"/>
+    <property name="surefire.real.class.path" value="/Users/rorymurray/Desktop/4BCT/SoftEng/Assignment1_PartB/target/surefire/surefirebooter13719769500184106200.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="11+28"/>
@@ -62,5 +62,5 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="StudentSystem.AppTest" time="0.004"/>
+  <testcase name="shouldAnswerWithTrue" classname="StudentSystem.AppTest" time="0.005"/>
 </testsuite>

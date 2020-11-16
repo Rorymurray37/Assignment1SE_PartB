@@ -26,18 +26,21 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-        <groupId>com.github.Rorymurray37</groupId>
-        <artifactId>SoftEng</artifactId>
-	<version>8f0f5c2487</version>
+	    <groupId>com.github.Rorymurray37</groupId>
+	    <artifactId>Assignment1_SE</artifactId>
+	    <version>dc53c571be</version>
     </dependency>
+    
   </dependencies>
   
   <repositories>
 	<repository>
-	  <id>jitpack.io</id>
-          <url>https://jitpack.io</url>
-        </repository>
-  </repositories>
+		<id>jitpack.io</id>
+	        <url>https://jitpack.io</url>
+	</repository>
+ </repositories>
+  
+  
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
